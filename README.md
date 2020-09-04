@@ -1,10 +1,10 @@
-DESCRIPTION
+## DESCRIPTION
 
 This program reads pdf invoices that are saved on my GCP Storage and converts them to CSV files using Google Document AI.
 
 
 
-USAGE
+## USAGE
 
 In the root directory, execute
 
@@ -18,7 +18,7 @@ The 'demo' directory contains a side-by-side comparison of the input pdf files a
 
 
 
-NOTES
+## NOTES
 
 -	To use this program, you must create a GCP service account (with access to Document AI API) and store the credentials file as myki.json in the application root directory
 
